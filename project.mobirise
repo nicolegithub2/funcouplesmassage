@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "funcouplesmassage",
-    "currentPage": "Blogs",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -162,13 +162,13 @@
             "inverse": false,
             "showTitle": true,
             "showText": true,
-            "showButtons": true,
+            "showButtons": false,
             "showArrow": true
           },
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/img-7993ee-1400x1163.jpg",
+              "src": "@PROJECT_PATH@/assets/images/watermarked-img-1400x933.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -702,7 +702,7 @@
             "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x29952.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x29953.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
