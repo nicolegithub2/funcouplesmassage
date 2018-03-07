@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "funcouplesmassage",
-    "currentPage": "index.html",
+    "currentPage": "Blogs",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -31,7 +31,9 @@
     "favicon": "",
     "noImageResize": "",
     "google-analytics": "",
-    "sitemapSwitcher": "on"
+    "sitemapSwitcher": "on",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -702,7 +704,7 @@
             "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x29953.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x29950.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -717,7 +719,7 @@
             "showButton": false
           },
           "title": "HOW HAVING EROTIC COUPLE MASSAGES CAN IMPROVE RELATIONSHIPS",
-          "text": "<p>Article header with background image and parallax effect.</p>",
+          "text": "",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
